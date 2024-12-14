@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Agu+Display&display=swap');
+.paragrafo{
+    color: #000000;
+    font-family: "Agu Display", serif;
+    font-optical-sizing: auto;
+}
+
+#terceiro{
+    color: #FF1493;
+    font-family:'Franklin Gothic Medium'
+}
+#segundo{
+    color: #8B0000;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    text-transform: lowercase;
+}
+
+.texto_seg{
+    
+}
